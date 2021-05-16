@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Yuanming Gao
-- 👀 I’m interested in system programming and web development
+- 👀 I’m interested in system programming, library development and web development
 - 🌱 I’m currently learning C++ new standards and Machine Learning
